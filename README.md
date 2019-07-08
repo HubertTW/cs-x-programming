@@ -8,5 +8,5 @@
 學校系級:東吳資管三
 
 ## Week01
-Markdown (https://huberttw.github.io/cs-x-programming/week01/%E7%88%AC%E8%9F%B2.html)
+Markdown (https://huberttw.github.io/cs-x-programming/)
 
